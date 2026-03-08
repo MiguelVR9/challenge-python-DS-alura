@@ -73,12 +73,8 @@ Durante el análisis se evaluaron diferentes indicadores para medir el rendimien
 * Tienda 4: $1,038,375,700.00
 
 **Gráfico de ingresos**
-
-[Inserta aquí la imagen del gráfico]
-
-```markdown
 ![Ingresos por tienda](images/IngresosT.png)
-```
+
 
 ---
 
@@ -93,9 +89,7 @@ Principales categorías:
 
  **Gráfico de categorías de la tienda 4**
 
-```markdown
 ![Categorías más vendidas](images/CategoriasT4.png)
-```
 
 ---
 
@@ -110,11 +104,10 @@ Resultados:
 * Tienda 3: 4.05
 * Tienda 4: 4.0
 
-**Gráfico de calificaciones**
+**Gráfico de calificaciones sw las tiendas**
 
-```markdown
+
 ![Calificación promedio](images/ValoracionM.png)
-```
 
 ---
 
@@ -137,9 +130,7 @@ Productos menos vendidos de la tienda 4:
 
 **Gráfico de productos vendidos de la tienda 4**
 
-```markdown
 ![Productos vendidos de la tienda 4](images/VentasT4.png)
-```
 
 ---
 
@@ -154,11 +145,11 @@ Resultados:
 * Tienda 3: $24,805.68
 * Tienda 4: $23,459.46
 
- **Gráfico de costos de envío**
+ **Gráfico de costos de envío de las tiendas**
 
-```markdown
+
 ![Costo promedio de envío](images/CostoEnvioP.png)
-```
+
 ---
 
 # Insights Obtenidos
