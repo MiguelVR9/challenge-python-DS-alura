@@ -72,7 +72,7 @@ Durante el análisis se evaluaron diferentes indicadores para medir el rendimien
 * Tienda 3: $1,098,019,600.00
 * Tienda 4: $1,038,375,700.00
 
-**Gráfico de ingresos**
+**Gráfico de ingresos de las tiendas**
 ![Ingresos por tienda](images/IngresosT.png)
 
 
@@ -104,14 +104,14 @@ Resultados:
 * Tienda 3: 4.05
 * Tienda 4: 4.0
 
-**Gráfico de calificaciones sw las tiendas**
+**Gráfico de calificaciones de las tiendas**
 
 
 ![Calificación promedio](images/ValoracionM.png)
 
 ---
 
-## Productos Más Vendidos
+## Productos más y menos vendidos
 
 Se identificaron los productos con mayor número de ventas en cada tienda.
 
@@ -157,7 +157,7 @@ Resultados:
 Algunos hallazgos importantes del análisis:
 
 * El análisis de los ingresos totales muestra que la tienda con mayores ingresos totales es la Tienda 1, la segunda es la Tienda 2, la tercera es la Tienda 3 y la de menores ingresos totales es la la Tienda 4.
-* El análisis de la valoración media de las 4 tiendas muestra que la que tiene mayor calificación por parte de los clientes es la Tienda 3, después es la Tienda 2, la tercera es la Tienda 4 y la que tiene menor calificación es la Tienda 1:
+* El análisis de la valoración media de las 4 tiendas muestra que la que tiene mayor calificación por parte de los clientes es la Tienda 3, después es la Tienda 2, la tercera es la Tienda 4 y la que tiene menor calificación es la Tienda 1.
 * El análisis de las ventas por categoría de las 4 tiendas muestra que las 4 tiendas tienen cantidades de ventas por producto similares tanto en sus productos mas vendidos como los menos vendidos. Sin embargo, también muestra que losproductos más populares y menos populares de cada tienda son diferentes.
 * El análisis del costo de envío promedio de las 4 tiendas muestra que la tienda con un mayor costo de envío promedio es la Tienda 1, la segunda es la Tienda 2, la tercer es la Tienda 3 y la de menor es la Tienda 4.
 
